@@ -81,15 +81,15 @@
             "title": "Радио Best FM"
         },
         {
-            "link": "http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_192kbps?46f9",
+            "link": "https://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_192kbps?46f9",
             "title": "Радио Вести FM"
         },
         {
-            "link": "http://media.govoritmoskva.ru:8880/ru64.mp3?9a675c8b",
+            "link": "https://media.govoritmoskva.ru:8880/ru64.mp3?9a675c8b",
             "title": "Радио Говорит Москва"
         },
         {
-            "link": "http://bookradio.hostingradio.ru:8069/fm?9e37",
+            "link": "https://bookradio.hostingradio.ru:8069/fm?9e37",
             "title": "Радио Книга"
         },
         {
@@ -97,15 +97,11 @@
             "title": "Радио Монте-Карло"
         },
         {
-            "link": "http://www.nostalgia.fm:8000/nostalgiafm.mp3?9872",
-            "title": "Радио Ностальгия FM"
-        },
-        {
             "link": "https://maximum.hostingradio.ru/maximum96.aacp?0590",
             "title": "Радио Maximum"
         },
         {
-            "link": "http://icecast.radiorocks.cdnvideo.ru/roks.stream?6af2",
+            "link": "https://icecast.radiorocks.cdnvideo.ru/roks.stream?6af2",
             "title": "Радио Рокс"
         },
         {
