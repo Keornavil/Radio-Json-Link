@@ -61,27 +61,23 @@
             "title": "Радио Хайп FM"
         },
         {
-            "link": "http://choco.hostingradio.ru:10010/fm?dc4b2c0f",
+            "link": "https://choco.hostingradio.ru:10010/fm?dc4b2c0f",
             "title": "Радио Шоколад"
         },
         {
-            "link": "http://emg02.hostingradio.ru/keksfm64.aac?ece7d6d7",
+            "link": "https://emg02.hostingradio.ru/keksfm64.aac?ece7d6d7",
             "title": "Радио Кекс FM"
         },
         {
-            "link": "http://tntradio.hostingradio.ru:8027/tntradio128.mp3?b2fb",
+            "link": "https://tntradio.hostingradio.ru:8027/tntradio128.mp3?b2fb",
             "title": "ТНТ Music Radio"
         },
         {
-            "link": "http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_128kbps?2fe5",
+            "link": "https://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_128kbps?2fe5",
             "title": "Радио Маяк"
         },
         {
-            "link": "http://icecast.newradio.cdnvideo.ru/newradio3?9c79",
-            "title": "Новое Радио"
-        },
-        {
-            "link": "http://nashe.streamr.ru/best-128.mp3?9da56a21",
+            "link": "https://nashe.streamr.ru/best-128.mp3?9da56a21",
             "title": "Радио Best FM"
         },
         {
