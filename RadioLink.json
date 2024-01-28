@@ -2,111 +2,138 @@
     "results":[
         {
             "link": "https://dorognoe.hostingradio.ru:8000/dorognoe?f733f91",
-            "title": "Дорожное Радио"
+            "title": "Дорожное Радио",
+            "image": "https://upload.wikimedia.org/wikipedia/ru/e/eb/Dorozhnoe_logo.jpg"
         },
         {
             "link": "https://rusradio.hostingradio.ru/rusradio96.aacp?ea2a",
-            "title": "Русское Радио"
+            "title": "Русское Радио",
+            "image": "https://upload.wikimedia.org/wikipedia/ru/e/eb/Dorozhnoe_logo.jpg"
         },
         {
             "link": "https://hitfm.hostingradio.ru/hitfm128.mp3?11d59b89",
-            "title": "Радио Хит FM"
+            "title": "Радио Хит FM",
+            "image": "https://upload.wikimedia.org/wikipedia/ru/e/eb/Dorozhnoe_logo.jpg"
         },
         {
             "link": "https://strm112.1.fm/acountry_mobile_mp3",
-            "title": "Absolute Country Hits"
+            "title": "Absolute Country Hits",
+            "image": "https://upload.wikimedia.org/wikipedia/ru/e/eb/Dorozhnoe_logo.jpg"
         },
         {
             "link": "https://chanson.hostingradio.ru:8041/chanson128.mp3?691f",
-            "title": "Радио Шансон"
+            "title": "Радио Шансон",
+            "image": "https://upload.wikimedia.org/wikipedia/ru/e/eb/Dorozhnoe_logo.jpg"
         },
         {
             "link": "https://ru1.volna.top/RuWave48?b663",
-            "title": "Радио Русская Волна"
+            "title": "Радио Русская Волна",
+            "image": "https://upload.wikimedia.org/wikipedia/ru/e/eb/Dorozhnoe_logo.jpg"
         },
         {
             "link": "https://emgregion.hostingradio.ru:8064/moscow.europaplus.mp3?7c2a4597",
-            "title": "Радио Европа Плюс"
+            "title": "Радио Европа Плюс",
+            "image": "https://upload.wikimedia.org/wikipedia/ru/e/eb/Dorozhnoe_logo.jpg"
         },
         {
             "link": "https://ic7.101.ru:8000/v3_1?4cbdca26",
-            "title": "Авторадио"
+            "title": "Авторадио",
+            "image": "https://upload.wikimedia.org/wikipedia/ru/e/eb/Dorozhnoe_logo.jpg"
         },
         {
             "link": "https://dfm.hostingradio.ru/dfm96.aacp?bd25878",
-            "title": "Радио DFM"
+            "title": "Радио DFM",
+            "image": "https://upload.wikimedia.org/wikipedia/ru/e/eb/Dorozhnoe_logo.jpg"
         },
         {
             "link": "https://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3?2339",
-            "title": "Радио Ретро FM"
+            "title": "Радио Ретро FM",
+            "image": "https://upload.wikimedia.org/wikipedia/ru/e/eb/Dorozhnoe_logo.jpg"
         },
         {
             "link": "https://air.broadcastinggroup.ro/Dancefloor?listening-from-radio-garden=1590474834829",
-            "title": "Dancefloor Радио"
+            "title": "Dancefloor Радио",
+            "image": "https://upload.wikimedia.org/wikipedia/ru/e/eb/Dorozhnoe_logo.jpg"
         },
         {
             "link": "https://31.192.216.3/rmf_rock",
-            "title": "Радио RFM Rock"
+            "title": "Радио RFM Rock",
+            "image": "https://upload.wikimedia.org/wikipedia/ru/e/eb/Dorozhnoe_logo.jpg"
         },
         {
             "link": "https://jfm1.hostingradio.ru:14536/rock70.mp3",
-            "title": "Радио Rock FM 70"
+            "title": "Радио Rock FM 70",
+            "image": "https://upload.wikimedia.org/wikipedia/ru/e/eb/Dorozhnoe_logo.jpg"
         },
         {
             "link": "https://emgspb.hostingradio.ru/eldoradio128.mp3?ca84522c",
-            "title": "Эльдорадио"
+            "title": "Эльдорадио",
+            "image": "https://upload.wikimedia.org/wikipedia/ru/e/eb/Dorozhnoe_logo.jpg"
         },
         {
             "link": "https://hfm.volna.top/HypeFM?35dfcd13",
-            "title": "Радио Хайп FM"
+            "title": "Радио Хайп FM",
+            "image": "https://upload.wikimedia.org/wikipedia/ru/e/eb/Dorozhnoe_logo.jpg"
         },
         {
             "link": "https://choco.hostingradio.ru:10010/fm?dc4b2c0f",
-            "title": "Радио Шоколад"
+            "title": "Радио Шоколад",
+            "image": "https://upload.wikimedia.org/wikipedia/ru/e/eb/Dorozhnoe_logo.jpg"
         },
         {
             "link": "https://emg02.hostingradio.ru/keksfm64.aac?ece7d6d7",
-            "title": "Радио Кекс FM"
+            "title": "Радио Кекс FM",
+            "image": "https://upload.wikimedia.org/wikipedia/ru/e/eb/Dorozhnoe_logo.jpg"
         },
         {
             "link": "https://tntradio.hostingradio.ru:8027/tntradio128.mp3?b2fb",
-            "title": "ТНТ Music Radio"
+            "title": "ТНТ Music Radio",
+            "image": "https://upload.wikimedia.org/wikipedia/ru/e/eb/Dorozhnoe_logo.jpg"
         },
         {
             "link": "https://nashe.streamr.ru/best-128.mp3?9da56a21",
-            "title": "Радио Best FM"
+            "title": "Радио Best FM",
+            "image": "https://upload.wikimedia.org/wikipedia/ru/e/eb/Dorozhnoe_logo.jpg"
         },
         {
             "link": "https://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_192kbps?46f9",
-            "title": "Радио Вести FM"
+            "title": "Радио Вести FM",
+            "image": "https://upload.wikimedia.org/wikipedia/ru/e/eb/Dorozhnoe_logo.jpg"
         },
         {
             "link": "https://media.govoritmoskva.ru:8880/ru64.mp3?9a675c8b",
-            "title": "Радио Говорит Москва"
+            "title": "Радио Говорит Москва",
+            "image": "https://upload.wikimedia.org/wikipedia/ru/e/eb/Dorozhnoe_logo.jpg"
         },
         {
             "link": "https://bookradio.hostingradio.ru:8069/fm?9e37",
-            "title": "Радио Книга"
+            "title": "Радио Книга",
+            "image": "https://upload.wikimedia.org/wikipedia/ru/e/eb/Dorozhnoe_logo.jpg"
         },
         {
             "link": "https://montecarlo.hostingradio.ru/montecarlo96.aacp?b406",
-            "title": "Радио Монте-Карло"
+            "title": "Радио Монте-Карло",
+            "image": "https://upload.wikimedia.org/wikipedia/ru/e/eb/Dorozhnoe_logo.jpg"
         },
         {
             "link": "https://maximum.hostingradio.ru/maximum96.aacp?0590",
-            "title": "Радио Maximum"
+            "title": "Радио Maximum",
+            "image": "https://upload.wikimedia.org/wikipedia/ru/e/eb/Dorozhnoe_logo.jpg"
         },
         {
             "link": "https://icecast.radiorocks.cdnvideo.ru/roks.stream?6af2",
-            "title": "Радио Рокс"
+            "title": "Радио Рокс",
+            "image": "https://upload.wikimedia.org/wikipedia/ru/e/eb/Dorozhnoe_logo.jpg"
         },
         {
             "link": "https://a6.radioheart.ru:9046/RH1972?8042",
-            "title": "Радио Rock’n’roll FM"
+            "title": "Радио Rock’n’roll FM",
+            "image": "https://upload.wikimedia.org/wikipedia/ru/e/eb/Dorozhnoe_logo.jpg"
         },
         {
             "link": "http://nashe.streamr.ru/rock-128.mp3?7d37",
-            "title": "Радио Rock FM"
+            "title": "Радио Rock FM",
+            "image": "https://upload.wikimedia.org/wikipedia/ru/e/eb/Dorozhnoe_logo.jpg"
         }
     ]
 }
