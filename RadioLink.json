@@ -77,51 +77,63 @@
         },
         {
             "link": "https://choco.hostingradio.ru:10010/fm?dc4b2c0f",
-            "title": "Радио Шоколад"
+            "title": "Радио Шоколад",
+            "image": "https://radiobitva.ru/images/artists/radio-shokolad.jpg"
         },
         {
             "link": "https://emg02.hostingradio.ru/keksfm64.aac?ece7d6d7",
-            "title": "Радио Кекс FM"
+            "title": "Радио Кекс FM",
+            "image": "https://radiomaniya.org/sites/default/files/stations/Кекс.jpg"
         },
         {
             "link": "https://tntradio.hostingradio.ru:8027/tntradio128.mp3?b2fb",
-            "title": "ТНТ Music Radio"
+            "title": "ТНТ Music Radio",
+            "image": "https://radiopotok.ru/f/station/512/1218.png"
         },
         {
             "link": "https://nashe.streamr.ru/best-128.mp3?9da56a21",
-            "title": "Радио Best FM"
+            "title": "Радио Best FM",
+            "image": "https://pcradio.ru/images/stations/61b09cadcd57a.jpg"
         },
         {
             "link": "https://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_192kbps?46f9",
-            "title": "Радио Вести FM"
+            "title": "Радио Вести FM",
+            "image": "https://radiopotok.ru/f/station/512/644.png"
         },
         {
             "link": "https://media.govoritmoskva.ru:8880/ru64.mp3?9a675c8b",
-            "title": "Радио Говорит Москва"
+            "title": "Радио Говорит Москва",
+            "image": "https://radiopotok.ru/f/station/512/677.png"
         },
         {
             "link": "https://bookradio.hostingradio.ru:8069/fm?9e37",
-            "title": "Радио Книга"
+            "title": "Радио Книга",
+            "image": "https://online-red.com/images/radio-logo/radiokniga.png"
         },
         {
             "link": "https://montecarlo.hostingradio.ru/montecarlo96.aacp?b406",
-            "title": "Радио Монте-Карло"
+            "title": "Радио Монте-Карло",
+            "image": "https://montecarlo.ru/uploads/50/a2/ffdb64da670d92ab2e38e08b6860.png"
         },
         {
             "link": "https://maximum.hostingradio.ru/maximum96.aacp?0590",
-            "title": "Радио Maximum"
+            "title": "Радио Maximum",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Logo-b6f7b5.jpg"
         },
         {
             "link": "https://icecast.radiorocks.cdnvideo.ru/roks.stream?6af2",
-            "title": "Радио Рокс"
+            "title": "Радио Рокс",
+            "image": "https://lastfm.freetls.fastly.net/i/u/ar0/1371b8f54d6941c2aee0acd9d8434c2b.jpg"
         },
         {
             "link": "https://a6.radioheart.ru:9046/RH1972?8042",
-            "title": "Радио Rock’n’roll FM"
+            "title": "Радио Rock’n’roll FM",
+            "image": "https://www.radiobells.com/stations/rocknrollfm.jpg"
         },
         {
             "link": "http://nashe.streamr.ru/rock-128.mp3?7d37",
-            "title": "Радио Rock FM"
+            "title": "Радио Rock FM",
+            "image": "https://radiopotok.ru/f/station/512/2066.png"
         }
     ]
 }
