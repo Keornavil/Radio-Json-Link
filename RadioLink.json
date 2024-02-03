@@ -13,11 +13,12 @@
         {
             "link": "https://hitfm.hostingradio.ru/hitfm128.mp3?11d59b89",
             "title": "Радио Хит FM",
-            "image": "https://hitfm.ru/_nuxt/img/sidebar-logo.82249fa.svg"
+            "image": "https://hitfm.ru/rx/750x750,c_1,g_CenterCenter/uploads/fe/c1/b1b1ee10df42439414e784d6c8d0.jpg"
         },
         {
             "link": "https://strm112.1.fm/acountry_mobile_mp3",
-            "title": "Absolute Country Hits"
+            "title": "Absolute Country Hits",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/AbsoluteLogo.svg/800px-AbsoluteLogo.svg.png"
         },
         {
             "link": "https://chanson.hostingradio.ru:8041/chanson128.mp3?691f",
