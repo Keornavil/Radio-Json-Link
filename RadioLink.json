@@ -12,7 +12,8 @@
         },
         {
             "link": "https://hitfm.hostingradio.ru/hitfm128.mp3?11d59b89",
-            "title": "Радио Хит FM"
+            "title": "Радио Хит FM",
+            "image": "https://hitfm.ru/_nuxt/img/sidebar-logo.82249fa.svg"
         },
         {
             "link": "https://strm112.1.fm/acountry_mobile_mp3",
