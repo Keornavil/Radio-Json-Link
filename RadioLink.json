@@ -32,19 +32,23 @@
         },
         {
             "link": "https://emgregion.hostingradio.ru:8064/moscow.europaplus.mp3?7c2a4597",
-            "title": "Радио Европа Плюс"
+            "title": "Радио Европа Плюс",
+            "image": "https://radiopotok.ru/f/station/512/1576.png"
         },
         {
             "link": "https://ic7.101.ru:8000/v3_1?4cbdca26",
-            "title": "Авторадио"
+            "title": "Авторадио",
+            "image": "https://radiopotok.ru/f/station/512/78.png"
         },
         {
             "link": "https://dfm.hostingradio.ru/dfm96.aacp?bd25878",
-            "title": "Радио DFM"
+            "title": "Радио DFM",
+            "image": "https://upload.wikimedia.org/wikipedia/ru/0/02/Dfm_logo.jpg"
         },
         {
             "link": "https://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3?2339",
-            "title": "Радио Ретро FM"
+            "title": "Радио Ретро FM",
+            "image": "https://mnogoradio.ru/images/retro-fm.jpg"
         },
         {
             "link": "https://air.broadcastinggroup.ro/Dancefloor?listening-from-radio-garden=1590474834829",
