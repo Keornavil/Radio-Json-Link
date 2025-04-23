@@ -91,17 +91,17 @@
             "image": "https://radiopotok.ru/f/station/512/1218.png"
         },
         {
-            "link": "https://nashe.streamr.ru/best-128.mp3?9da56a21",
+            "link": "https://nashe1.hostingradio.ru/best-128.mp3",
             "title": "Best FM",
             "image": "https://pcradio.ru/images/stations/61b09cadcd57a.jpg"
         },
         {
-            "link": "https://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_192kbps?46f9",
+            "link": "https://icecast-vgtrk.cdnvideo.ru/vestifm_mp3_192kbps",
             "title": "Вести FM",
             "image": "https://radiopotok.ru/f/station/512/644.png"
         },
         {
-            "link": "https://media.govoritmoskva.ru:8880/ru64.mp3?9a675c8b",
+            "link": "https://media.govoritmoskva.ru/radio/rufm.mp3",
             "title": "Говорит Москва",
             "image": "https://radiopotok.ru/f/station/512/677.png"
         },
@@ -121,7 +121,7 @@
             "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Logo-b6f7b5.jpg"
         },
         {
-            "link": "https://icecast.radiorocks.cdnvideo.ru/roks.stream?6af2",
+            "link": "https://stream.roks.com:8443/live_hd",
             "title": "Рокс",
             "image": "https://lastfm.freetls.fastly.net/i/u/ar0/1371b8f54d6941c2aee0acd9d8434c2b.jpg"
         },
@@ -131,7 +131,8 @@
             "image": "https://www.radiobells.com/stations/rocknrollfm.jpg"
         },
         {
-            "link": "http://nashe.streamr.ru/rock-128.mp3?7d37",
+            "link": "
+            https://nashe1.hostingradio.ru:80/rock-128.mp3",
             "title": "Rock FM",
             "image": "https://radiopotok.ru/f/station/512/2066.png"
         },
